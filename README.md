@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakejariwal&show_icons=true&locale=en" alt="adityakejariwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakejariwal&" alt="adityakejariwal" /></p>
+
